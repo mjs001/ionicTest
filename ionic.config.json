@@ -1,0 +1,11 @@
+{
+    "name": "ex",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react",
+    "proxies": [{
+        "path": "/home/",
+        "proxyUrl": "http://www.instagram.com"
+    }]
+}
